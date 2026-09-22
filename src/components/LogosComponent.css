@@ -1,0 +1,22 @@
+.logos-component{
+    padding: 30px 40px;
+}
+
+
+.logos-flex{
+    display: flex;
+  
+    align-items: center;
+    justify-content: center;
+      gap: 80px !important;
+      margin-top: 30px;
+}
+.logos-component h5{
+    text-align: center;
+    color: gray;
+}
+.logos-flex img{
+  
+    margin-right: 60px;
+    
+}

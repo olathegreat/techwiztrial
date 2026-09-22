@@ -1,0 +1,18 @@
+.nav{
+    background: #0174B7;
+    padding: 20px 40px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.nav .signin{
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+.nav .nav-right{
+    display: flex;
+    align-items: center;
+    gap: 40px;
+    color: white;
+}
